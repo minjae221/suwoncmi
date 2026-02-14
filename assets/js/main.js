@@ -1,4 +1,4 @@
-﻿(() => {
+(() => {
   const pathname = window.location.pathname;
   const isEn = pathname.includes('/en/');
   const lang = isEn ? 'en' : 'ko';
@@ -306,12 +306,8 @@
     staff.forEach((member) => {
       const card = createEl('article', 'card staff-card');
       const img = document.createElement('img');
-      img.src = resolveAsset(getLocaleText(member.photo), fallbackStaffImage);
+      setImageSourceWithFallbacks(img, getImageCandidates(getLocaleText(member.photo), fallbackStaffImage));
       img.alt = getLocaleText(member.name);
-      img.onerror = () => {
-        img.src = resolveAsset(fallbackStaffImage);
-        img.onerror = null;
-      };
       const role = createEl('div', 'notice-meta', getLocaleText(member.role));
       const name = createEl('h3', null, getLocaleText(member.name));
       const bio = createEl('p', 'staff-bio', getLocaleText(member.bio));
