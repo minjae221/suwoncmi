@@ -1,0 +1,252 @@
+﻿{
+  "site": {
+    "churchName": {
+      "ko": "수원선교교회",
+      "en": "Suwoncmi"
+    },
+    "denomination": {
+      "ko": "대한예수교장로회[합신]",
+      "en": "Hapshin (Korea Presbyterian Church)"
+    },
+    "address": {
+      "ko": "경기도 수원시 영통구 월드컵로 193번길 37",
+      "en": "37, Worldcup-ro 193beon-gil, Yeongtong-gu, Suwon-si, Gyeonggi-do, Korea"
+    },
+    "tel": "031-213-0208",
+    "links": {
+      "youtube": "https://www.youtube.com/@SuwonMissonChurch",
+      "instagram": "https://www.instagram.com/su1.mission_youth/",
+      "instagramHandle": "@su1.mission_youth"
+    }
+  },
+  "hero": {
+    "headline": {
+      "ko": "환영합니다",
+      "en": "Welcome"
+    },
+    "sub": {
+      "ko": "수원선교교회에 오신 것을 환영합니다.",
+      "en": "Welcome to Suwoncmi."
+    },
+    "cta": {
+      "ko": "처음 오셨나요?",
+      "en": "New here?"
+    }
+  },
+  "worshipTimes": [
+    {
+      "key": "sunday",
+      "label": {
+        "ko": "주일 예배",
+        "en": "Sunday Service"
+      },
+      "time": {
+        "ko": "오전 11시",
+        "en": "11:00 AM"
+      }
+    },
+    {
+      "key": "friday",
+      "label": {
+        "ko": "금요 예배",
+        "en": "Friday Service"
+      },
+      "time": {
+        "ko": "저녁 9시",
+        "en": "9:00 PM"
+      }
+    },
+    {
+      "key": "dawn",
+      "label": {
+        "ko": "새벽 기도",
+        "en": "Dawn Prayer"
+      },
+      "time": {
+        "ko": "오전 5시",
+        "en": "5:00 AM"
+      }
+    }
+  ],
+  "location": {
+    "mapProvider": "naver",
+    "naverSearchQuery": {
+      "ko": "경기도 수원시 영통구 월드컵로 193번길 37 수원선교교회",
+      "en": "Suwoncmi Suwon Gyeonggi-do"
+    },
+    "mapUrl": {
+      "ko": "",
+      "en": ""
+    },
+    "mapImage": {
+      "src": "assets/img/location/naver-map.jpg",
+      "alt": {
+        "ko": "네이버지도 위치",
+        "en": "Naver Map location"
+      }
+    }
+  },
+  "notices": [
+    {
+      "date": "2026-01-26",
+      "autoWeeklyWorshipTitle": true,
+      "title": {
+        "ko": "2월 첫째 주 예배 안내",
+        "en": "Worship Schedule for the First Week of February"
+      },
+      "body": {
+        "ko": "이번 주 예배는 정상적으로 진행됩니다. 새가족 환영 공간도 운영됩니다.",
+        "en": "All services will be held as usual this week. The newcomers welcome area will be open after worship."
+      },
+      "link": "https://www.youtube.com/@SuwonMissonChurch"
+    }
+  ],
+  "community": [
+    {
+      "date": "2026-01-27",
+      "title": {
+        "ko": "청년부 교제 모임",
+        "en": "Young Adults Fellowship"
+      },
+      "desc": {
+        "ko": "예배 후 함께 식사하며 공동체 모임합니다.",
+        "en": "We share a meal and fellowship after worship."
+      },
+      "images": [
+        {
+          "src": "assets/img/community/placeholder-1.svg",
+          "alt": {
+            "ko": "청년부 모임",
+            "en": "Young adults gathering"
+          }
+        }
+      ]
+    }
+  ],
+  "staff": [
+    {
+      "role": {
+        "ko": "담임목사",
+        "en": "Senior Pastor"
+      },
+      "name": {
+        "ko": "고양주",
+        "en": "Koh Yangju"
+      },
+      "photo": "assets/img/staff/senior-pastor.svg",
+      "bio": {
+        "ko": "현) 수원선교교회 담임목사.\n현) 수원선교교회 담임목사\n현) 합동신학대학원 성경지리연구소 전문위원\n현) 합동신학대학원 성서지리학 외래강사\n전) CMI 이스라엘 선교지부장",
+        "en": "Current) Senior Pastor of Suwon Mission Church.\nCurrent) Senior Pastor of Suwon Mission Church\nCurrent) Specialist Committee Member, Bible Geography Institute, Hapdong Theological Seminary\nCurrent) Adjunct Lecturer in Biblical Geography, Hapdong Theological Seminary\nFormer) Director of CMI Israel Mission Branch"
+      }
+    },
+    {
+      "role": {
+        "ko": "사모",
+        "en": "Pastor's Wife"
+      },
+      "name": {
+        "ko": "황순희",
+        "en": "Hwang Soonhee"
+      },
+      "photo": "assets/img/staff/pastors-wife.svg",
+      "bio": {
+        "ko": "새가족과 다음 세대를 따뜻하게 돌봅니다.",
+        "en": "Caring warmly for newcomers and the next generation."
+      }
+    },
+    {
+      "role": {
+        "ko": "부목사",
+        "en": "Associate Pastor"
+      },
+      "name": {
+        "ko": "정종연",
+        "en": "Jung Jongyeon"
+      },
+      "photo": "assets/img/staff/associate-pastor.svg",
+      "bio": {
+        "ko": "예배와 중고청 교육 사역을 함께 합니다.",
+        "en": "Supporting worship and young adult education ministries."
+      }
+    }
+  ],
+  "about": {
+    "sections": [
+      {
+        "key": "intro",
+        "title": {
+          "ko": "수원선교교회 소개",
+          "en": "About Suwoncmi"
+        },
+        "subtitle": {
+          "ko": "",
+          "en": ""
+        },
+        "paragraphs": {
+          "ko": [
+            "수원선교교회는 1978년 수원 일대의 캠퍼스 사역을 통한 대학생 복음화와 세계선교를 목표로 설립된 선교회에 그 뿌리를 두고 있습니다.",
+            "2003년 대한예수교장로회(합신교단)에 속한 교회로 새로 시작하여 현재는 대학생 뿐만 아니라 지역사회를 섬기며 세계선교를 위해 헌신하는 교회로 성장하고 있습니다.",
+            "또한 영어 성경공부 및 예배 통역 서비스를 통해 외국인들을 위한 사역을 감당하고 있습니다.",
+            "말씀에 기초하여 한 영혼의 구원과 치료, 전 인격적 양육을 핵심가치로 삼는 아름다운 교회입니다.",
+            "언제 어떻게 교회를 찾으시든 항상 여러분을 위한 자리를 준비해 두겠습니다."
+          ],
+          "en": [
+            "Suwoncmi began in 1978, rooted in a campus ministry that longed to share the gospel with university students and support world missions.",
+            "In 2003 we were planted as a church within the Hapshin Presbyterian denomination, and since then we have grown into a community that serves both students and our local neighborhood while remaining committed to global mission work.",
+            "We also provide English Bible study and worship interpretation to serve international friends who worship with us.",
+            "Grounded in Scripture, we value the salvation and healing of each soul and the holistic discipleship of the whole person.",
+            "Whenever you visit, you will find a place prepared just for you."
+          ]
+        }
+      },
+      {
+        "key": "vision",
+        "title": {
+          "ko": "비전과 목표",
+          "en": "Vision and Mission"
+        },
+        "subtitle": {
+          "ko": "주님의 영광을 위한 삶",
+          "en": "A Life for the Glory of the Lord"
+        },
+        "paragraphs": {
+          "ko": [
+            "그리스도와 그분의 말씀에 헌신된 교회인 수원 CMI입니다.",
+            "예배와 사역, 그리고 교제를 통해 그리스도의 사랑을 널리 전합니다.",
+            "저희 교회는 단순히 예배만 드리는 공간이 아닙니다. 교회는 주님의 몸이며, 주님을 믿는 사람들의 공동체가 곧 교회입니다.",
+            "우리는 이 공동체 안에서 주님을 찬양합니다."
+          ],
+          "en": [
+            "Suwoncmi is a church devoted to Christ and His Word.",
+            "Through worship, ministry, and fellowship we seek to share the love of Christ widely.",
+            "We are more than a place to attend services. The church is the body of the Lord, and the community of believers is the church itself.",
+            "Within this community we lift our praises to the Lord."
+          ]
+        }
+      },
+      {
+        "key": "values",
+        "title": {
+          "ko": "핵심 가치",
+          "en": "Core Values"
+        },
+        "subtitle": {
+          "ko": "교회를 이루는 요소",
+          "en": "Foundations of the Church"
+        },
+        "paragraphs": {
+          "ko": [
+            "또한 주님의 가르침에 근거하여 믿음의 길을 열심히 달려나가며, 성령의 능력에 힘입어 매일매일 새로워지는 교회입니다.",
+            "여러분의 삶에 예비하신 하나님의 은혜를 경험하시길 축복합니다.",
+            "지금 문의하셔서 더 자세히 알아보세요. 새롭게 저희 교회를 방문하시는 모든 예배자를 환영합니다."
+          ],
+          "en": [
+            "We pursue the path of faith grounded in the Lord's teaching, and we are renewed daily by the power of the Holy Spirit.",
+            "We pray that you experience God's grace prepared for your life.",
+            "Reach out anytime to learn more, and we warmly welcome everyone visiting our church for the first time."
+          ]
+        }
+      }
+    ]
+  }
+}
