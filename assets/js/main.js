@@ -1,4 +1,4 @@
-(() => {
+﻿(() => {
   const pathname = window.location.pathname;
   const isEn = pathname.includes('/en/');
   const lang = isEn ? 'en' : 'ko';
